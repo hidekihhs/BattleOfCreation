@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 6debc6cb6f1ee774fa68c33521814e0f
+timeCreated: 1484618868
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: morcebook-01_0
+    21300002: morcebook-01_1
+    21300004: morcebook-01_2
+    21300006: morcebook-01_3
+    21300008: morcebook-01_7
+    21300010: morcebook-01_8
+    21300012: morcebook-01_9
+    21300014: morcebook-01_10
+    21300016: morcebook-01_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: morcebook-01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 146
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.5, y: 39.865654}
+        - {x: -51.5, y: 39.865654}
+        - {x: -69.5, y: 15.865654}
+        - {x: -69.5, y: -9.134346}
+        - {x: -58.5, y: -24.134346}
+        - {x: -27.5, y: -39.134346}
+        - {x: 43.5, y: -39.134346}
+        - {x: 65.5, y: -30.134346}
+        - {x: 69.5, y: -17.134346}
+        - {x: 69.5, y: 31.865654}
+    - name: morcebook-01_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 42
+        width: 145
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.66205, y: 44.71191}
+        - {x: -68.66205, y: 33.71191}
+        - {x: -68.66205, y: -28.28809}
+        - {x: -28.662048, y: -43.28809}
+        - {x: 47.33795, y: -43.28809}
+        - {x: 69.33795, y: -19.28809}
+        - {x: 69.33795, y: 44.71191}
+    - name: morcebook-01_2
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 39
+        width: 144
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.04895, y: 44.875347}
+        - {x: -68.04895, y: -26.124653}
+        - {x: -31.04895, y: -43.124653}
+        - {x: 51.95105, y: -43.124653}
+        - {x: 69.95105, y: -23.124653}
+        - {x: 69.95105, y: 33.875347}
+        - {x: 58.95105, y: 44.875347}
+    - name: morcebook-01_3
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 35
+        width: 147
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.335205, y: -39.40674}
+        - {x: 36.335205, y: -35.40674}
+        - {x: 45.335205, y: -41.40674}
+        - {x: 63.335205, y: -34.40674}
+        - {x: 70.335205, y: -18.406738}
+        - {x: 70.335205, y: 1.5932617}
+        - {x: 54.335205, y: 31.593262}
+        - {x: 41.335205, y: 29.593262}
+        - {x: 9.335205, y: 39.59326}
+        - {x: -23.664795, y: 39.59326}
+        - {x: -32.664795, y: 36.59326}
+        - {x: -31.664795, y: 29.593262}
+        - {x: -28.664795, y: 21.593262}
+        - {x: -40.664795, y: 36.59326}
+        - {x: -60.664795, y: 31.593262}
+        - {x: -69.664795, y: 8.593262}
+        - {x: -69.664795, y: -38.40674}
+        - {x: -60.664795, y: -43.40674}
+        - {x: 36.335205, y: -43.40674}
+        - {x: 37.335205, y: -42.40674}
+        - {x: 35.335205, y: -39.40674}
+        - {x: 30.335205, y: -39.40674}
+      - - {x: 24.335205, y: 39.59326}
+        - {x: 18.335205, y: 36.59326}
+        - {x: 18.335205, y: 29.593262}
+        - {x: 19.335205, y: 25.593262}
+        - {x: 28.335205, y: 25.593262}
+        - {x: 30.335205, y: 27.593262}
+        - {x: 30.335205, y: 36.59326}
+        - {x: 29.335205, y: 39.59326}
+    - name: morcebook-01_7
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 15
+        width: 145
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.551697, y: 36.682827}
+        - {x: -68.5517, y: 19.682827}
+        - {x: -68.5517, y: -16.317173}
+        - {x: -60.551697, y: -36.317173}
+        - {x: 68.4483, y: -36.317173}
+        - {x: 70.4483, y: -28.317173}
+        - {x: 70.4483, y: 26.682827}
+        - {x: 65.4483, y: 36.682827}
+    - name: morcebook-01_8
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 26
+        width: 145
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.558655, y: 40.583565}
+        - {x: 30.558655, y: 39.583565}
+        - {x: 21.558655, y: 40.583565}
+        - {x: -55.441345, y: 40.583565}
+        - {x: -68.441345, y: 27.583565}
+        - {x: -68.441345, y: -13.416435}
+        - {x: -62.441345, y: -30.416435}
+        - {x: -45.441345, y: -39.416435}
+        - {x: 39.558655, y: -39.416435}
+        - {x: 69.558655, y: -34.416435}
+        - {x: 69.558655, y: 30.583565}
+        - {x: 53.558655, y: 40.583565}
+    - name: morcebook-01_9
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 11
+        width: 146
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.884094, y: -11.599262}
+        - {x: -66.884094, y: -17.599262}
+        - {x: -63.884094, y: -36.599262}
+        - {x: 70.115906, y: -36.599262}
+        - {x: 70.115906, y: 27.400738}
+        - {x: 65.115906, y: 37.400738}
+        - {x: -55.884094, y: 37.400738}
+        - {x: -68.884094, y: 16.400738}
+    - name: morcebook-01_10
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 23
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: morcebook-01_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 25
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

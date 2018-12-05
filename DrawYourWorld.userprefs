@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ColorChanger.cs" Line="12" Column="13" />
+      <File FileName="Assets\Scripts\Interface.cs" Line="147" Column="42" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="160" Column="5" />
+      <File FileName="Assets\Scripts\OffsetScroller.cs" Line="27" Column="12" />
+      <File FileName="Assets\Scripts\ScenarioScroller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\srcBase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\enemy.cs" Line="60" Column="32" />
+      <File FileName="Assets\Scripts\CameraPointer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpawnEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AudioManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

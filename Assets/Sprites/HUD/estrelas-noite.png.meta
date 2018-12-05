@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 04395f2c29762dd4b90c40c2a648d806
+timeCreated: 1468112764
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: estrelas-noite_0
+    21300002: estrelas-noite_1
+    21300004: estrelas-noite_2
+    21300006: estrelas-noite_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 1
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 0
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: estrelas-noite_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 36
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.437267, y: 28.507381}
+        - {x: -27.437267, y: 18.507381}
+        - {x: -27.437267, y: -26.492619}
+        - {x: -26.437267, y: -28.492619}
+        - {x: 25.562733, y: -28.492619}
+        - {x: 27.562733, y: -25.492619}
+        - {x: 27.562733, y: 18.507381}
+        - {x: 15.562733, y: 28.507381}
+    - name: estrelas-noite_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 44
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5737915, y: 24.064575}
+        - {x: -22.573792, y: 19.064575}
+        - {x: -22.573792, y: -13.935425}
+        - {x: -9.5737915, y: -22.935425}
+        - {x: 15.4262085, y: -22.935425}
+        - {x: 24.426208, y: -11.935425}
+        - {x: 24.426208, y: 10.064575}
+        - {x: 19.426208, y: 24.064575}
+    - name: estrelas-noite_2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 41
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.822876, y: 21.730629}
+        - {x: -19.822876, y: 18.730629}
+        - {x: -19.822876, y: -15.269371}
+        - {x: -9.822876, y: -20.269371}
+        - {x: 8.177124, y: -20.269371}
+        - {x: 20.177124, y: -11.269371}
+        - {x: 20.177124, y: 21.730629}
+    - name: estrelas-noite_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 30
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.645752, y: 31.839483}
+        - {x: -18.354248, y: 31.839483}
+        - {x: -30.354248, y: 17.839483}
+        - {x: -30.354248, y: -21.160517}
+        - {x: -27.354248, y: -31.160517}
+        - {x: 31.645752, y: -31.160517}
+        - {x: 31.645752, y: 20.839483}
+        - {x: 29.645752, y: 23.839483}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

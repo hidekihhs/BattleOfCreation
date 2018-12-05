@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 1b3265b0f5f64bd45b7ab19a60c7c818
+timeCreated: 1484618923
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ghostube_0
+    21300002: ghostube_1
+    21300004: ghostube_2
+    21300006: ghostube_3
+    21300008: ghostube_4
+    21300010: ghostube_5
+    21300012: ghostube_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ghostube_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 5
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 45.5}
+        - {x: -40, y: 45.5}
+        - {x: -48, y: 35.5}
+        - {x: -48, y: -26.5}
+        - {x: -37, y: -45.5}
+        - {x: 41, y: -45.5}
+        - {x: 48, y: -14.5}
+        - {x: 48, y: 22.5}
+        - {x: 39, y: 40.5}
+      - - {x: 35, y: -31.5}
+        - {x: 35, y: -36.5}
+        - {x: 40, y: -36.5}
+        - {x: 41, y: -35.5}
+        - {x: 41, y: -32.5}
+        - {x: 39, y: -30.5}
+        - {x: 37, y: -30.5}
+    - name: ghostube_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 26
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 46.5}
+        - {x: -39.5, y: 27.5}
+        - {x: -42.5, y: 5.5}
+        - {x: -41.5, y: 2.5}
+        - {x: -39.5, y: 0.5}
+        - {x: -42.5, y: -2.5}
+        - {x: -42.5, y: 4.5}
+        - {x: -44.5, y: 6.5}
+        - {x: -46.5, y: 7.5}
+        - {x: -46.5, y: -35.5}
+        - {x: -17.5, y: -46.5}
+        - {x: 46.5, y: -46.5}
+        - {x: 46.5, y: 46.5}
+      - - {x: 36.5, y: -30.5}
+        - {x: 36.5, y: -35.5}
+        - {x: 41.5, y: -35.5}
+        - {x: 42.5, y: -34.5}
+        - {x: 42.5, y: -31.5}
+        - {x: 40.5, y: -29.5}
+        - {x: 38.5, y: -29.5}
+      - - {x: 42.5, y: 15.5}
+        - {x: 42.5, y: 4.5}
+        - {x: 45.5, y: 3.5}
+        - {x: 46.5, y: 3.5}
+        - {x: 46.5, y: 15.5}
+        - {x: 45.5, y: 16.5}
+    - name: ghostube_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 74
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: ghostube_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 40
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 46.5}
+        - {x: -50, y: 25.5}
+        - {x: -50, y: -10.5}
+        - {x: -45, y: -12.5}
+        - {x: -36, y: -13.5}
+        - {x: -34, y: -10.5}
+        - {x: -34, y: -8.5}
+        - {x: -35, y: -6.5}
+        - {x: -34, y: -6.5}
+        - {x: -33, y: -15.5}
+        - {x: -35, y: -13.5}
+        - {x: -38, y: -13.5}
+        - {x: -39, y: -16.5}
+        - {x: -40, y: -43.5}
+        - {x: -37, y: -46.5}
+        - {x: 41, y: -46.5}
+        - {x: 50, y: -39.5}
+        - {x: 50, y: 43.5}
+        - {x: 34, y: 46.5}
+    - name: ghostube_4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 17
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -46.5}
+        - {x: 46.5, y: -46.5}
+        - {x: 49.5, y: -40.5}
+        - {x: 49.5, y: 44.5}
+        - {x: 40.5, y: 46.5}
+        - {x: -41.5, y: 46.5}
+        - {x: -48.5, y: 23.5}
+        - {x: -48.5, y: 16.5}
+        - {x: -42.5, y: 3.5}
+        - {x: -47.5, y: 13.5}
+        - {x: -49.5, y: 13.5}
+        - {x: -49.5, y: -9.5}
+        - {x: -47.5, y: -12.5}
+        - {x: -34.5, y: -13.5}
+        - {x: -36.5, y: -13.5}
+        - {x: -39.5, y: -15.5}
+        - {x: -45.5, y: -37.5}
+        - {x: -38.5, y: -46.5}
+        - {x: 19.5, y: -46.5}
+        - {x: 21.5, y: -45.5}
+        - {x: 21.5, y: -43.5}
+    - name: ghostube_5
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 26
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -46.5}
+        - {x: 36, y: -46.5}
+        - {x: 46, y: -38.5}
+        - {x: 51, y: -24.5}
+        - {x: 51, y: 33.5}
+        - {x: 45, y: 46.5}
+        - {x: -35, y: 46.5}
+        - {x: -51, y: 42.5}
+        - {x: -51, y: -46.5}
+        - {x: 18, y: -46.5}
+        - {x: 20, y: -45.5}
+        - {x: 20, y: -43.5}
+    - name: ghostube_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 63
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

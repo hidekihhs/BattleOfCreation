@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: 68c2c2bde548aa0489bd3e5afaf4136e
+timeCreated: 1470498339
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "fuma\xE7a_0"
+    21300002: "fuma\xE7a_1"
+    21300004: "fuma\xE7a_2"
+    21300006: "fuma\xE7a_3"
+    21300008: "fuma\xE7a_4"
+    21300010: "fuma\xE7a_5"
+    21300012: "fuma\xE7a_6"
+    21300014: "fuma\xE7a_7"
+    21300016: "fuma\xE7a_8"
+    21300018: "fuma\xE7a_9"
+    21300020: "fuma\xE7a_10"
+    21300022: "fuma\xE7a_11"
+    21300024: "fuma\xE7a_12"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "fuma\xE7a_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 21.85714}
+        - {x: -18, y: -19.14286}
+        - {x: -16, y: -20.14286}
+        - {x: 8, y: -20.14286}
+        - {x: 18, y: -11.14286}
+        - {x: 18, y: 17.85714}
+        - {x: 14, y: 21.85714}
+    - name: "fuma\xE7a_1"
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 73
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.69841, y: 33.18254}
+        - {x: -47.69841, y: 29.18254}
+        - {x: -47.69841, y: -24.81746}
+        - {x: -28.69841, y: -31.81746}
+        - {x: 47.30159, y: -31.81746}
+        - {x: 48.30159, y: -29.81746}
+        - {x: 48.30159, y: 27.18254}
+        - {x: 38.30159, y: 33.18254}
+    - name: "fuma\xE7a_2"
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 40
+        width: 104
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.349213, y: 56.23016}
+        - {x: -12.650787, y: 56.23016}
+        - {x: -50.650787, y: 21.23016}
+        - {x: -50.650787, y: -26.76984}
+        - {x: -40.650787, y: -52.76984}
+        - {x: -30.650787, y: -54.76984}
+        - {x: 43.349213, y: -54.76984}
+        - {x: 51.349213, y: -48.76984}
+        - {x: 51.349213, y: 26.23016}
+        - {x: 50.349213, y: 36.23016}
+    - name: "fuma\xE7a_3"
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 45
+        width: 152
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.682556, y: 59.57143}
+        - {x: -54.317444, y: 59.57143}
+        - {x: -68.317444, y: 52.57143}
+        - {x: -71.317444, y: 29.57143}
+        - {x: -71.317444, y: -58.42857}
+        - {x: 34.682556, y: -58.42857}
+        - {x: 73.682556, y: -15.42857}
+        - {x: 74.682556, y: -12.42857}
+        - {x: 74.682556, y: 55.57143}
+    - name: "fuma\xE7a_4"
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 23
+        width: 259
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.56746, y: 28.567461}
+        - {x: 4.567459, y: 28.567461}
+        - {x: -23.43254, y: 17.567461}
+        - {x: -31.43254, y: 11.567461}
+        - {x: -31.43254, y: -24.432539}
+        - {x: -30.43254, y: -27.432539}
+        - {x: 13.567459, y: -27.432539}
+        - {x: 28.56746, y: -13.432539}
+        - {x: 32.56746, y: -6.432539}
+        - {x: 32.56746, y: 18.567461}
+    - name: "fuma\xE7a_5"
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 4
+        width: 265
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.273804, y: 31.468254}
+        - {x: -32.273804, y: 25.468254}
+        - {x: -32.273804, y: -15.531746}
+        - {x: -29.273804, y: -29.531746}
+        - {x: 10.726196, y: -29.531746}
+        - {x: 21.726196, y: -18.531746}
+        - {x: 32.726196, y: -5.531746}
+        - {x: 32.726196, y: 13.468254}
+        - {x: 25.726196, y: 31.468254}
+    - name: "fuma\xE7a_6"
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 26
+        width: 151
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.246033, y: 18.793652}
+        - {x: -18.246033, y: -18.206348}
+        - {x: 18.753967, y: -18.206348}
+        - {x: 18.753967, y: 14.793652}
+        - {x: 10.753967, y: 18.793652}
+    - name: "fuma\xE7a_7"
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 132
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.063477, y: 23.809525}
+        - {x: -16.063477, y: -18.190475}
+        - {x: -8.063477, y: -21.190475}
+        - {x: 19.936523, y: -21.190475}
+        - {x: 20.936523, y: -20.190475}
+        - {x: 20.936523, y: 22.809525}
+        - {x: 19.936523, y: 23.809525}
+    - name: "fuma\xE7a_8"
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 20
+        width: 135
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.309509, y: 18.34127}
+        - {x: -16.30951, y: 15.34127}
+        - {x: -16.30951, y: -13.65873}
+        - {x: -14.309509, y: -15.65873}
+        - {x: -9.309509, y: -14.65873}
+        - {x: -5.3095093, y: -11.65873}
+        - {x: 3.6904907, y: -16.65873}
+        - {x: 16.69049, y: -16.65873}
+        - {x: 16.69049, y: 18.34127}
+    - name: "fuma\xE7a_9"
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 7
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.920654, y: 29.777779}
+        - {x: -26.920654, y: -17.222221}
+        - {x: -14.920654, y: -28.222221}
+        - {x: 14.079346, y: -28.222221}
+        - {x: 27.079346, y: -23.222221}
+        - {x: 27.079346, y: 22.777779}
+        - {x: 12.079346, y: 29.777779}
+    - name: "fuma\xE7a_10"
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 49
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.333374, y: 33.444443}
+        - {x: -33.666626, y: 33.444443}
+        - {x: -33.666626, y: -2.5555573}
+        - {x: -6.666626, y: -32.555557}
+        - {x: 36.333374, y: -32.555557}
+        - {x: 36.333374, y: 19.444443}
+        - {x: 20.333374, y: 29.444443}
+    - name: "fuma\xE7a_11"
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 58
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.30957, y: 20.15873}
+        - {x: -15.30957, y: -17.84127}
+        - {x: -11.30957, y: -19.84127}
+        - {x: 13.69043, y: -19.84127}
+        - {x: 18.69043, y: -17.84127}
+        - {x: 18.69043, y: 16.15873}
+        - {x: 17.69043, y: 20.15873}
+    - name: "fuma\xE7a_12"
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 0
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.611084, y: 28.5}
+        - {x: -22.611084, y: 20.5}
+        - {x: -25.611084, y: 6.5}
+        - {x: -25.611084, y: -12.5}
+        - {x: -14.611084, y: -28.5}
+        - {x: 23.388916, y: -28.5}
+        - {x: 28.388916, y: -21.5}
+        - {x: 28.388916, y: 28.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

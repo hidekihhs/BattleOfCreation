@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 44e111e630f01164dac927f377ef0421
+timeCreated: 1468100945
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: terreno22-02_0
+    21300002: terreno22-02_1
+    21300004: terreno22-02_2
+    21300006: terreno22-02_3
+    21300008: terreno22-02_4
+    21300010: terreno22-02_5
+    21300012: terreno22-02_6
+    21300014: terreno22-02_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: terreno22-02_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 20.5}
+        - {x: -21, y: -20.5}
+        - {x: 21, y: -20.5}
+        - {x: 21, y: 20.5}
+    - name: terreno22-02_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.481483, y: 20.5}
+        - {x: -20.481483, y: -20.5}
+        - {x: 21.518517, y: -20.5}
+        - {x: 21.518517, y: 20.5}
+    - name: terreno22-02_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.159264, y: 20.5}
+        - {x: -21.159264, y: -20.5}
+        - {x: 21.840736, y: -20.5}
+        - {x: 21.840736, y: -13.5}
+        - {x: -13.159264, y: 20.5}
+    - name: terreno22-02_5
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 134
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.140747, y: 20.5}
+        - {x: -20.140747, y: -20.5}
+        - {x: 21.859253, y: -20.5}
+        - {x: 21.859253, y: 20.5}
+    - name: terreno22-02_6
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 0
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.7296295, y: 20.5}
+        - {x: -20.72963, y: 20.5}
+        - {x: -20.72963, y: -20.5}
+        - {x: 22.27037, y: -20.5}
+        - {x: 22.27037, y: -16.5}
+        - {x: 6.2703705, y: 2.5}
+    - name: terreno22-02_7
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 0
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.014816, y: 20.5}
+        - {x: -20.014816, y: -3.5}
+        - {x: -20.014816, y: -20.5}
+        - {x: 21.985184, y: -20.5}
+        - {x: 21.985184, y: 20.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 3e6d56708e372d14aa91281fc838cf86
+timeCreated: 1484862132
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: arb3_0
+    21300002: arb3_1
+    21300004: arb3_2
+    21300006: arb3_3
+    21300008: arb3_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: arb3_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 71
+        width: 286
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.8, y: -69.7}
+        - {x: 113.8, y: -29.699997}
+        - {x: 115.8, y: -28.699997}
+        - {x: 115.8, y: 11.300003}
+        - {x: 93.8, y: 69.3}
+        - {x: 84.8, y: 71.3}
+        - {x: 1.800003, y: 71.3}
+        - {x: -40.199997, y: 22.300003}
+        - {x: -36.199997, y: 7.300003}
+        - {x: -34.199997, y: 5.300003}
+        - {x: -40.199997, y: -0.69999695}
+        - {x: -39.199997, y: -1.699997}
+        - {x: -41.199997, y: 4.300003}
+        - {x: -59.199997, y: 30.300003}
+        - {x: -99.2, y: 22.300003}
+        - {x: -114.2, y: -3.699997}
+        - {x: -114.2, y: -45.699997}
+        - {x: -112.2, y: -45.699997}
+        - {x: -94.2, y: -69.7}
+        - {x: -50.199997, y: -69.7}
+        - {x: -48.199997, y: -64.7}
+        - {x: -51.199997, y: -57.699997}
+        - {x: -21.199997, y: -69.7}
+    - name: arb3_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 72
+        width: 147
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.30002, y: 29.100002}
+        - {x: -21.699982, y: 29.100002}
+        - {x: -58.69998, y: 15.100002}
+        - {x: -58.69998, y: -27.899998}
+        - {x: 60.30002, y: -27.899998}
+        - {x: 60.30002, y: 2.1000023}
+        - {x: 50.30002, y: 25.100002}
+    - name: arb3_2
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 71
+        width: 175
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.899994, y: 30.3}
+        - {x: -38.100006, y: 30.3}
+        - {x: -70.100006, y: 17.3}
+        - {x: -70.100006, y: -28.7}
+        - {x: 70.899994, y: -28.7}
+        - {x: 70.899994, y: 7.299999}
+        - {x: 69.899994, y: 11.299999}
+    - name: arb3_3
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 73
+        width: 155
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.700012, y: 55.9}
+        - {x: -52.700012, y: 44.9}
+        - {x: -61.700012, y: 35.9}
+        - {x: -61.700012, y: -32.1}
+        - {x: -47.700012, y: -55.1}
+        - {x: 30.299988, y: -55.1}
+        - {x: 32.299988, y: -54.1}
+        - {x: 63.299988, y: -29.099998}
+        - {x: 63.299988, y: 19.900002}
+        - {x: 32.299988, y: 55.9}
+    - name: arb3_4
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 72
+        width: 97
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.799988, y: 22.600002}
+        - {x: -38.799988, y: 2.6000023}
+        - {x: -38.799988, y: -19.399998}
+        - {x: -36.799988, y: -21.399998}
+        - {x: 39.200012, y: -21.399998}
+        - {x: 39.200012, y: 10.600002}
+        - {x: 22.200012, y: 22.600002}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

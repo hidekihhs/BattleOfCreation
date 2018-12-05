@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 4b7fe3c3309b60b449bbd025c8727a5e
+timeCreated: 1468112791
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: flores-dia_0
+    21300002: flores-dia_1
+    21300004: flores-dia_2
+    21300006: flores-dia_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: flores-dia_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 43
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.21402, y: 26.119926}
+        - {x: -27.21402, y: 19.119926}
+        - {x: -27.21402, y: -19.880074}
+        - {x: -25.21402, y: -24.880074}
+        - {x: 28.78598, y: -24.880074}
+        - {x: 28.78598, y: 20.119926}
+        - {x: 21.78598, y: 26.119926}
+    - name: flores-dia_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 55
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flores-dia_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 39
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.326569, y: 26.841328}
+        - {x: -28.326569, y: 15.841328}
+        - {x: -28.326569, y: -12.158672}
+        - {x: -24.326569, y: -25.158672}
+        - {x: 20.673431, y: -25.158672}
+        - {x: 28.673431, y: -20.158672}
+        - {x: 28.673431, y: 22.841328}
+        - {x: 24.673431, y: 26.841328}
+    - name: flores-dia_3
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 50
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

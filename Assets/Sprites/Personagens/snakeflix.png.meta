@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 260383204c01cc345b4fd6ff1518e4ec
+timeCreated: 1484618898
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: snakeflix_0
+    21300002: snakeflix_1
+    21300004: snakeflix_2
+    21300006: snakeflix_3
+    21300008: snakeflix_4
+    21300010: snakeflix_5
+    21300012: snakeflix_6
+    21300014: snakeflix_7
+    21300016: snakeflix_8
+    21300018: snakeflix_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: snakeflix_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 13
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.57563, y: -38.57563}
+        - {x: -9.57563, y: -39.57563}
+        - {x: 31.42437, y: -39.57563}
+        - {x: 43.42437, y: -31.57563}
+        - {x: 43.42437, y: 34.42437}
+        - {x: 31.42437, y: 41.42437}
+        - {x: -10.57563, y: 41.42437}
+        - {x: -22.57563, y: 8.42437}
+        - {x: -4.57563, y: 0.4243698}
+        - {x: 2.4243698, y: -8.57563}
+        - {x: 2.4243698, y: -10.57563}
+        - {x: 2.4243698, y: -8.57563}
+        - {x: -1.5756302, y: -5.57563}
+        - {x: -8.57563, y: -5.57563}
+        - {x: -35.57563, y: 4.42437}
+        - {x: -41.57563, y: -4.57563}
+        - {x: -41.57563, y: -37.57563}
+        - {x: -38.57563, y: -39.57563}
+        - {x: -22.57563, y: -39.57563}
+        - {x: -18.57563, y: -38.57563}
+        - {x: -15.57563, y: -32.57563}
+        - {x: -15.57563, y: -30.57563}
+        - {x: -15.57563, y: -32.57563}
+    - name: snakeflix_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 13
+        width: 121
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.987396, y: -11.07563}
+        - {x: 38.987396, y: -17.07563}
+        - {x: 44.987396, y: -27.07563}
+        - {x: 51.987396, y: -9.07563}
+        - {x: 51.987396, y: 38.92437}
+        - {x: -10.012604, y: 38.92437}
+        - {x: -51.012604, y: -1.0756302}
+        - {x: -51.012604, y: -32.07563}
+        - {x: -48.012604, y: -37.07563}
+        - {x: 14.987396, y: -37.07563}
+        - {x: 29.987396, y: -23.07563}
+        - {x: 34.987396, y: -18.07563}
+        - {x: 33.987396, y: -14.07563}
+      - - {x: 39.987396, y: -16.07563}
+        - {x: 37.987396, y: -20.07563}
+        - {x: 37.987396, y: -21.07563}
+        - {x: 39.987396, y: -24.07563}
+        - {x: 43.987396, y: -24.07563}
+        - {x: 45.987396, y: -23.07563}
+        - {x: 45.987396, y: -17.07563}
+        - {x: 44.987396, y: -16.07563}
+    - name: snakeflix_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 7
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.78151, y: -6.6176453}
+        - {x: 20.78151, y: -2.6176453}
+        - {x: 20.78151, y: -3.6176453}
+        - {x: 22.78151, y: -9.617645}
+        - {x: 29.78151, y: -14.617645}
+        - {x: 39.78151, y: -12.617645}
+        - {x: 39.78151, y: 40.382355}
+        - {x: -25.21849, y: 40.382355}
+        - {x: -38.21849, y: 29.382355}
+        - {x: -38.21849, y: -36.617645}
+        - {x: -34.21849, y: -38.617645}
+        - {x: 11.781509, y: -38.617645}
+        - {x: 22.78151, y: -21.617645}
+        - {x: 21.78151, y: -7.6176453}
+    - name: snakeflix_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 9
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.3487244, y: 40.563026}
+        - {x: -19.348724, y: 29.563026}
+        - {x: -26.348724, y: -2.4369736}
+        - {x: -26.348724, y: -39.436974}
+        - {x: 7.6512756, y: -39.436974}
+        - {x: 26.651276, y: -13.436974}
+        - {x: 26.651276, y: 27.563026}
+        - {x: 24.651276, y: 40.563026}
+    - name: snakeflix_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 9
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.9663696, y: 41.063026}
+        - {x: -21.96637, y: 27.063026}
+        - {x: -41.96637, y: 2.0630264}
+        - {x: -41.96637, y: -39.936974}
+        - {x: 25.03363, y: -39.936974}
+        - {x: 42.03363, y: -29.936974}
+        - {x: 42.03363, y: 40.063026}
+        - {x: 36.03363, y: 41.063026}
+    - name: snakeflix_5
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 8
+        width: 121
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.93701, y: -16.77731}
+        - {x: 41.93701, y: -17.77731}
+        - {x: 51.93701, y: -7.7773094}
+        - {x: 51.93701, y: 30.22269}
+        - {x: 39.93701, y: 39.22269}
+        - {x: 4.9370117, y: 39.22269}
+        - {x: -11.062988, y: 30.22269}
+        - {x: -50.06299, y: 0.22269058}
+        - {x: -50.06299, y: -37.77731}
+        - {x: 15.937012, y: -37.77731}
+        - {x: 36.93701, y: -17.77731}
+        - {x: 33.93701, y: -11.777309}
+      - - {x: 39.93701, y: -22.77731}
+        - {x: 42.93701, y: -24.77731}
+        - {x: 44.93701, y: -24.77731}
+        - {x: 46.93701, y: -23.77731}
+        - {x: 46.93701, y: -18.77731}
+        - {x: 44.93701, y: -16.77731}
+        - {x: 39.93701, y: -18.77731}
+    - name: snakeflix_6
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 6
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.214294, y: 39.042015}
+        - {x: -28.214294, y: 16.042015}
+        - {x: -37.214294, y: -2.957985}
+        - {x: -37.214294, y: -38.957985}
+        - {x: 14.785706, y: -38.957985}
+        - {x: 38.785706, y: -29.957985}
+        - {x: 38.785706, y: 37.042015}
+        - {x: 34.785706, y: 39.042015}
+    - name: snakeflix_7
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 3
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.004211, y: 40.521008}
+        - {x: -24.004211, y: 23.521008}
+        - {x: -24.004211, y: -39.478992}
+        - {x: 5.9957886, y: -39.478992}
+        - {x: 9.995789, y: -37.478992}
+        - {x: 25.995789, y: -22.478992}
+        - {x: 25.995789, y: 37.521008}
+        - {x: 20.995789, y: 40.521008}
+    - name: snakeflix_8
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 33
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: snakeflix_9
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 3
+        width: 105
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.550415, y: 49.521008}
+        - {x: 2.550415, y: 49.521008}
+        - {x: -43.449585, y: 16.521008}
+        - {x: -43.449585, y: -48.478992}
+        - {x: 13.550415, y: -48.478992}
+        - {x: 37.550415, y: -19.478992}
+        - {x: 44.550415, y: 5.5210075}
+        - {x: 44.550415, y: 46.521008}
+      - - {x: 27.550415, y: -15.478992}
+        - {x: 26.550415, y: -17.478992}
+        - {x: 26.550415, y: -19.478992}
+        - {x: 30.550415, y: -24.478992}
+        - {x: 37.550415, y: -24.478992}
+        - {x: 39.550415, y: -23.478992}
+        - {x: 39.550415, y: -18.478992}
+        - {x: 34.550415, y: -15.478992}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

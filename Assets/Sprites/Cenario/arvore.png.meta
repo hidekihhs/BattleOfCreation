@@ -1,0 +1,401 @@
+fileFormatVersion: 2
+guid: 8353c1ee74ae5b845bdae62ade7b7aab
+timeCreated: 1484863571
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: arvore_0
+    21300002: arvore_1
+    21300004: arvore_2
+    21300006: arvore_3
+    21300008: arvore_4
+    21300010: arvore_5
+    21300012: arvore_6
+    21300014: arvore_7
+    21300016: arvore_8
+    21300018: arvore_9
+    21300020: arvore_10
+    21300022: arvore_11
+    21300024: arvore_12
+    21300026: arvore_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: arvore_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 631
+        width: 354
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.520744, y: -25.931824}
+        - {x: 87.520744, y: -22.931824}
+        - {x: 110.520744, y: 40.068176}
+        - {x: 110.520744, y: 45.068176}
+        - {x: 95.520744, y: 117.06818}
+        - {x: 22.520744, y: 167.06818}
+        - {x: -56.479256, y: 167.06818}
+        - {x: -109.479256, y: 65.06818}
+        - {x: -109.479256, y: -12.931824}
+        - {x: -86.479256, y: -43.931824}
+        - {x: -21.479256, y: -50.931824}
+        - {x: -74.479256, y: -111.93182}
+        - {x: -109.479256, y: -147.93182}
+        - {x: -109.479256, y: -165.93182}
+        - {x: 110.520744, y: -165.93182}
+        - {x: 110.520744, y: -106.93182}
+        - {x: 68.520744, y: -87.93182}
+      - - {x: 106.520744, y: -134.93182}
+        - {x: 108.520744, y: -137.93182}
+        - {x: 110.520744, y: -136.93182}
+        - {x: 110.520744, y: -133.93182}
+        - {x: 108.520744, y: -132.93182}
+    - name: arvore_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 628
+        width: 419
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.53853, y: -106.78873}
+        - {x: 48.53853, y: -113.78873}
+        - {x: 44.53853, y: -117.78873}
+        - {x: 49.53853, y: -111.78873}
+        - {x: 50.53853, y: -106.78873}
+        - {x: 48.53853, y: -103.78873}
+        - {x: 43.53853, y: -104.78873}
+        - {x: 45.53853, y: -96.78873}
+        - {x: 45.53853, y: -85.78873}
+        - {x: 123.53853, y: 13.211273}
+        - {x: 130.53853, y: 26.211273}
+        - {x: 130.53853, y: 145.21127}
+        - {x: 73.53853, y: 172.21127}
+        - {x: -123.46147, y: 172.21127}
+        - {x: -129.46147, y: 161.21127}
+        - {x: -129.46147, y: 53.211273}
+        - {x: -115.46147, y: 31.211273}
+        - {x: -114.46147, y: -116.78873}
+        - {x: -115.46147, y: -170.78873}
+        - {x: 104.53853, y: -170.78873}
+        - {x: 124.53853, y: -158.78873}
+        - {x: 130.53853, y: -153.78873}
+        - {x: 130.53853, y: -132.78873}
+        - {x: 126.53853, y: -122.78873}
+    - name: arvore_2
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 631
+        width: 347
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.692627, y: -103.93182}
+        - {x: 94.69263, y: -3.9318237}
+        - {x: 107.69263, y: 42.068176}
+        - {x: 65.69263, y: 141.06818}
+        - {x: 33.692627, y: 167.06818}
+        - {x: -57.307373, y: 167.06818}
+        - {x: -107.30737, y: 106.06818}
+        - {x: -107.30737, y: -41.931824}
+        - {x: -35.307373, y: -44.931824}
+        - {x: -107.30737, y: -138.93182}
+        - {x: -107.30737, y: -162.93182}
+        - {x: -104.30737, y: -165.93182}
+        - {x: 108.69263, y: -165.93182}
+        - {x: 108.69263, y: -114.93182}
+        - {x: 60.692627, y: -97.93182}
+    - name: arvore_3
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 631
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: arvore_4
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 628
+        width: 419
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.472534, y: -106.78873}
+        - {x: 48.472534, y: -113.78873}
+        - {x: 44.472534, y: -117.78873}
+        - {x: 49.472534, y: -111.78873}
+        - {x: 50.472534, y: -106.78873}
+        - {x: 48.472534, y: -103.78873}
+        - {x: 43.472534, y: -104.78873}
+        - {x: 45.472534, y: -96.78873}
+        - {x: 44.472534, y: -87.78873}
+        - {x: 130.47253, y: 23.211273}
+        - {x: 130.47253, y: 159.21127}
+        - {x: 77.472534, y: 172.21127}
+        - {x: -122.527466, y: 172.21127}
+        - {x: -129.52747, y: 165.21127}
+        - {x: -129.52747, y: 2.2112732}
+        - {x: -93.527466, y: -63.788727}
+        - {x: -129.52747, y: -127.78873}
+        - {x: -129.52747, y: -151.78873}
+        - {x: -94.527466, y: -170.78873}
+        - {x: 99.472534, y: -170.78873}
+        - {x: 130.47253, y: -158.78873}
+        - {x: 130.47253, y: -132.78873}
+        - {x: 125.472534, y: -124.78873}
+      - - {x: -120.527466, y: -152.78873}
+        - {x: -121.527466, y: -153.78873}
+        - {x: -121.527466, y: -161.78873}
+        - {x: -105.527466, y: -161.78873}
+        - {x: -104.527466, y: -160.78873}
+        - {x: -104.527466, y: -156.78873}
+        - {x: -105.527466, y: -152.78873}
+    - name: arvore_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 618
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: arvore_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 618
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: arvore_7
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 618
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: arvore_8
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 618
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: arvore_9
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 613
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: arvore_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 277
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.474174, y: 191}
+        - {x: 19.474174, y: 191}
+        - {x: 0.4741745, y: 181}
+        - {x: -48.525826, y: 106}
+        - {x: -69.525826, y: -47}
+        - {x: -45.525826, y: -149}
+        - {x: -42.525826, y: -155}
+        - {x: -44.525826, y: -152}
+        - {x: -49.525826, y: -147}
+        - {x: -51.525826, y: -147}
+        - {x: -62.525826, y: -140}
+        - {x: -69.525826, y: -143}
+        - {x: -68.525826, y: -147}
+        - {x: -85.525826, y: -165}
+        - {x: -85.525826, y: -175}
+        - {x: -73.525826, y: -187}
+        - {x: -62.525826, y: -191}
+        - {x: 86.474174, y: -191}
+        - {x: 86.474174, y: 18}
+        - {x: 54.474174, y: 190}
+    - name: arvore_11
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 0
+        width: 407
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126.012695, y: 53}
+        - {x: 56.012695, y: 136}
+        - {x: -53.987305, y: 136}
+        - {x: -114.987305, y: 113}
+        - {x: -125.987305, y: 85}
+        - {x: -125.987305, y: -39}
+        - {x: -102.987305, y: -59}
+        - {x: -86.987305, y: -85}
+        - {x: -84.987305, y: -88}
+        - {x: -84.987305, y: -90}
+        - {x: -84.987305, y: -88}
+        - {x: -91.987305, y: -81}
+        - {x: -100.987305, y: -82}
+        - {x: -125.987305, y: -102}
+        - {x: -125.987305, y: -112}
+        - {x: -113.987305, y: -136}
+        - {x: 115.012695, y: -136}
+        - {x: 97.012695, y: -89}
+        - {x: 126.012695, y: -9}
+    - name: arvore_12
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 0
+        width: 277
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.408142, y: -150}
+        - {x: 43.408142, y: -154}
+        - {x: 43.408142, y: -156}
+        - {x: 44.408142, y: -145}
+        - {x: 67.40814, y: -81}
+        - {x: 86.40814, y: 72}
+        - {x: 86.40814, y: 191}
+        - {x: -21.591858, y: 191}
+        - {x: -77.59186, y: -51}
+        - {x: -45.591858, y: -149}
+        - {x: -42.591858, y: -155}
+        - {x: -44.591858, y: -152}
+        - {x: -49.591858, y: -147}
+        - {x: -51.591858, y: -147}
+        - {x: -53.591858, y: -149}
+        - {x: -62.591858, y: -142}
+        - {x: -66.59186, y: -142}
+        - {x: -68.59186, y: -144}
+        - {x: -85.59186, y: -153}
+        - {x: -85.59186, y: -185}
+        - {x: -82.59186, y: -191}
+        - {x: 86.40814, y: -191}
+        - {x: 86.40814, y: -166}
+        - {x: 85.40814, y: -162}
+        - {x: 68.40814, y: -138}
+        - {x: 57.408142, y: -137}
+    - name: arvore_13
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 0
+        width: 406
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126.04321, y: 0.5}
+        - {x: 126.04321, y: 51.5}
+        - {x: 63.043213, y: 135.5}
+        - {x: -70.95679, y: 135.5}
+        - {x: -125.95679, y: 87.5}
+        - {x: -125.95679, y: -44.5}
+        - {x: -101.95679, y: -71.5}
+        - {x: -87.95679, y: -81.5}
+        - {x: -87.95679, y: -83.5}
+        - {x: -86.95679, y: -86.5}
+        - {x: -84.95679, y: -88.5}
+        - {x: -99.95679, y: -73.5}
+        - {x: -125.95679, y: -102.5}
+        - {x: -125.95679, y: -110.5}
+        - {x: -116.95679, y: -128.5}
+        - {x: -107.95679, y: -135.5}
+        - {x: 109.04321, y: -135.5}
+        - {x: 112.04321, y: -128.5}
+        - {x: 97.04321, y: -88.5}
+        - {x: 107.04321, y: -28.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

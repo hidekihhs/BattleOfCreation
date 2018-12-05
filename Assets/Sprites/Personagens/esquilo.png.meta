@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 331e26e4982228143b37d08eaa790cab
+timeCreated: 1470496036
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: esquilo_0
+    21300002: esquilo_1
+    21300004: esquilo_2
+    21300006: esquilo_3
+    21300008: esquilo_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: esquilo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 195
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.5, y: 77.5}
+        - {x: -85.5, y: 77.5}
+        - {x: -97.5, y: 70.5}
+        - {x: -97.5, y: 16.5}
+        - {x: -72.5, y: -54.5}
+        - {x: -46.5, y: -77.5}
+        - {x: 78.5, y: -77.5}
+        - {x: 97.5, y: -60.5}
+        - {x: 97.5, y: 45.5}
+    - name: esquilo_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 18
+        width: 205
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.5, y: 33}
+        - {x: 44.5, y: 29}
+        - {x: 40.5, y: 22}
+        - {x: -14.5, y: 74}
+        - {x: -100.5, y: 74}
+        - {x: -102.5, y: 68}
+        - {x: -102.5, y: 5}
+        - {x: -46.5, y: -74}
+        - {x: 56.5, y: -74}
+        - {x: 100.5, y: -66}
+        - {x: 102.5, y: -63}
+        - {x: 102.5, y: -9}
+        - {x: 96.5, y: 18}
+    - name: esquilo_2
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 15
+        width: 237
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 64.5}
+        - {x: 11.5, y: 67.5}
+        - {x: -118.5, y: 67.5}
+        - {x: -118.5, y: -28.5}
+        - {x: -97.5, y: -67.5}
+        - {x: 117.5, y: -67.5}
+        - {x: 118.5, y: -64.5}
+        - {x: 118.5, y: -8.5}
+        - {x: 113.5, y: 13.5}
+    - name: esquilo_3
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 4
+        width: 226
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -71}
+        - {x: 113, y: -71}
+        - {x: 113, y: 57}
+        - {x: 95, y: 71}
+        - {x: -113, y: 71}
+        - {x: -113, y: -3}
+    - name: esquilo_4
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 0
+        width: 158
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 76.5}
+        - {x: -79, y: 76.5}
+        - {x: -79, y: -18.5}
+        - {x: -19, y: -76.5}
+        - {x: 43, y: -76.5}
+        - {x: 79, y: -60.5}
+        - {x: 79, y: -0.5}
+        - {x: 38, y: 51.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
